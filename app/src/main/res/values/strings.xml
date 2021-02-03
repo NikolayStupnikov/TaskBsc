@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Задача для BSK</string>
+    <string name="birthday">Именины</string>
+    <string name="party">Вечеринка</string>
+    <string name="come_with_you">С Вами придут</string>
+    <string name="invite">Пригласил(а):</string>
+</resources>
